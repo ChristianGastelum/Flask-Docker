@@ -4,4 +4,7 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
+Flask	../hello.py	/^from flask import Flask$/;"	kind:namespace	line:1
+app	../hello.py	/^app = Flask(__name__)$/;"	kind:variable	line:3
 hello.py	../hello.py	1;"	kind:file	line:1
+index	../hello.py	/^def index():$/;"	kind:function	line:12
